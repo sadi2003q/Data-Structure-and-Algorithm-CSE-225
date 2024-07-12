@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.kt": "kotlin",
+        "vector": "cpp",
+        "set": "cpp"
+    }
+}
